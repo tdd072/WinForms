@@ -10,5 +10,6 @@ namespace WinForms
     {
         string 第一个更改;
         string 第2个更改;
+        string 第2次编辑class1;
     }
 }
