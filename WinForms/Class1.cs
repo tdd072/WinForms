@@ -8,5 +8,6 @@ namespace WinForms
 {
     class Class1
     {
+        string 第一个更改;
     }
 }
