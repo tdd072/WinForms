@@ -8,5 +8,6 @@ namespace WinForms
 {
     class Class2
     {
+        private string 修改class2;
     }
 }
