@@ -9,5 +9,6 @@ namespace WinForms
     class Class1
     {
         string 第一个更改;
+        string 第2个更改;
     }
 }
