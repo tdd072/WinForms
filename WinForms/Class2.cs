@@ -8,5 +8,6 @@ namespace WinForms
 {
     class Class2
     {
+       private string d2次修改class2;
     }
 }
